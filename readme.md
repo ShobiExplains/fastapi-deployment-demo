@@ -23,4 +23,7 @@
     `sudo service nginx restart`
 
 
+# Detailed deployment video
+https://www.youtube.com/watch?v=E5IhKYT7ecU&
+
 > Please post your comments, subcribe and follow me on twitter [@ppshobi](https://twitter.com/ppshobi)
